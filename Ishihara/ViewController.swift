@@ -50,6 +50,8 @@ class ViewController: UIViewController {
         }
         print("intIndex ==> \(intIndex)")
         
+        ishiharalmagerView.image = UIImage(named: arrayImage[intIndex])
+        
         
         
         
